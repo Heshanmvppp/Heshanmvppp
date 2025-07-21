@@ -22,8 +22,8 @@ Always excited about pentesting, automation, and learning new ways to secure sys
 ---
 
 ### 📫 Connect with me
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-#4CAF50?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://www.hackthebox.com/profile/yourprofile)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-#4CAF50?style=for-the-badge&logo=hack-the-box&logoColor=white)](https://www.hackthebox.com/profile/Heshanmvppp)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Heshanmvppp)
 
 ---
 
